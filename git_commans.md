@@ -2,20 +2,20 @@ Describe que hacen los siguientes comandos de git, escribe su descripcion al fre
 
 git status: Este comando se usa para obtener el estado actual del repositorio
 
-git clone:
+git clone: Es para clonar un repositorio remoto
 
-git pull:
+git pull: Descarga los cambios del repositorio remoto y los fusiona localmente
 
-git checkout:
+git checkout: Permite cambiar versiones anteriores de archivos en el repositorio
 
-git log:
+git log: Muestra el historial de confirmaciones en la rama actual
 
-git branch:
+git branch: Crea o elimina ramas en el repositorio
 
-git add:
+git add: Añade los cambios en el directorio de trabajo al área de preparación
 
-git commit:
+git commit: Guarda los cambios preparados en una confirmación
 
-git push:
+git push: Sube los commits locales al repositorio remoto
 
-git merge:
+git merge: Fusiona los cambios de una rama en otra
